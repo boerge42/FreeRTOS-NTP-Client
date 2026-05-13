@@ -28,7 +28,7 @@ Für dieses kleine Projekt wurde folgende Hardware verwendet:
 * Display: [SSD1306-OLED (128x64)]([ESP32 OLED Display with Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/))
   Lag in einer meiner Bastelkisten ganz oben. Es sollte kein Problem sein, ein anderes Display zu verwenden und den Quelltext entsprechend anzupassen.  
 
-![](/home/bergeruw/mnt/banane/home/bergeruw/work/esp32-p4-eth/simple_oled_clock/clock.jpg)
+![](clock.jpg)
 
 ## 
 
@@ -48,7 +48,7 @@ Zur Steuerung der (asynchronen) Ausgaben auf dem OLED-Displays, wurden vor allem
 
 Letztendlich sehen dann ungefähr so die Ausgaben auf dem OLED aus:
 
-<img title="" src="file:///home/bergeruw/mnt/banane/home/bergeruw/work/esp32-p4-eth/simple_oled_clock/oled.jpg" alt="" width="633">
+<img title="" src="oled.jpg" alt="" width="633">
 
 ## Interessante Links
 
